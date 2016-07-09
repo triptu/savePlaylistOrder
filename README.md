@@ -6,9 +6,13 @@ This program solves that problem.
 Write playlist link in "playlist link" named txt file. Then run the python code to get the order in "order.txt" file.
 
 ##Requirements
-Python 2.x (should work on Python3 too, not checked)
-Requests
-BeautifulSoup
+- Python2 (should work on Python3 too, not checked)
+- Requests
+- BeautifulSoup
 
 ####License
 GNU GPL
+
+####To Do
+- [ ] Saving the order with name of playlist as its file name.
+- [ ] Making the program commandline.
